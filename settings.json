@@ -1,0 +1,12 @@
+{
+    "editor.formatOnSave": true,
+    "liveSassCompile.settings.generateMap": false,
+    "workbench.startupEditor": "none",
+    "workbench.colorTheme": "Space Ocean Kit Refined",
+    "workbench.colorCustomizations": {
+        "[Space Ocean Kit Refined]": {
+            "terminal.ansiBlack": "#1ceaf1",
+            "terminal.ansiBrightBlack": "#0ad487"
+        }
+    }
+}
